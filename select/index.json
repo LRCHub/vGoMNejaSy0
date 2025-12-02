@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "ロビンソン",
+  "base_artist": "Spitz",
+  "createdAt": "2025-12-02T22:37:30.367848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/01_ロビンソン_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/02_ロビンソン_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/03_ロビンソン_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_ロビンソン_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/05_ロビンソン_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "Unchain",
+      "has_synced": true,
+      "path": "select/06_ロビンソン_Unchain.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "Gibson, Debbie",
+      "has_synced": false,
+      "path": "select/07_ロビンソン_Gibson,_Debbie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/08_ロビンソン_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/09_ロビンソン_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ロビンソン - Robinson",
+      "artist": "Ayaka",
+      "has_synced": true,
+      "path": "select/10_ロビンソン_-_Robinson_Ayaka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ロビンソン - Robinson",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/11_ロビンソン_-_Robinson_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/12_ロビンソン_絢香.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/13_ロビンソン_スピッツ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "ゴスペラーズ",
+      "has_synced": false,
+      "path": "select/14_ロビンソン_ゴスペラーズ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ロビンソン",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/15_ロビンソン_Spitz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_ロビンソン_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_ロビンソン_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_ロビンソン_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_ロビンソン_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_ロビンソン_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_06_ロビンソン_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_07_ロビンソン_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_08_ロビンソン_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_09_ロビンソン_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ロビンソン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_10_ロビンソン_スピッツ.txt"
+    }
+  ]
+}
